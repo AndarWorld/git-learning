@@ -1,2 +1,4 @@
 Режим вывода команд на экран (ECHO) включен.
 'Something' 
+'Something for ammend' 
+SOmething new 
