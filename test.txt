@@ -1,5 +1,1 @@
-Режим вывода команд на экран (ECHO) включен.
-'Something' 
-'Something for ammend' 
-SOmething new 
-123456 
+It's from 'testbranch' 
